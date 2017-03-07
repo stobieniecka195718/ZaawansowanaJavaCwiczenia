@@ -1,2 +1,2 @@
 language: java
-before_script: cd workplace
+before_script: cd 1234
